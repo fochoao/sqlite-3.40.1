@@ -327,4 +327,15 @@ The main SQLite website is [http://www.sqlite.org/](http://www.sqlite.org/)
 with geographically distributed backups at
 [http://www2.sqlite.org/](http://www2.sqlite.org) and
 [http://www3.sqlite.org/](http://www3.sqlite.org).
-# sqlite-3.40.1
+
+# SQLite version3.40.1
+
+SQLite version 3.40.1 2022-12-28 14:03:47
+
+Enter ".help" for usage hints.
+
+Connected to a transient in-memory database.
+
+Use ".open FILENAME" to reopen on a persistent database.
+
+sqlite>
